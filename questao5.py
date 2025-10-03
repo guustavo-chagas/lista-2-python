@@ -4,4 +4,4 @@ class Pessoa:
         self.idade = idade
 
     def falar(self):
-        print(f"Olá, meu nome é {self.nome} e eu tenho {self.idade} anos.")
+        print(f"Meu nome é {self.nome} e eu tenho {self.idade} anos.")
